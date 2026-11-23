@@ -31,3 +31,4 @@ jobs:
         with:
           name: MaceLevels-jar
           path: MaceLevels/target/*.jar
+          
